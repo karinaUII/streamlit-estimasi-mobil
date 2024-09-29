@@ -9,7 +9,7 @@ year = st.number_input('Input Tahun Mobil')
 mileage = st.number_input('Input Km Mobil')
 tax = st.number_input('Input Pajak Mobil')
 mpg = st.number_input('Konsumsi BBM Mobil')
-engineSize = st.number_input('Input engine Size')
+engineSize = st.number_input('Input Engine Size')
 
 predict = ''
 
